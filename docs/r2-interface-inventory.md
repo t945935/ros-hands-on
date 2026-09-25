@@ -12,7 +12,8 @@
 | 線速度單位及允許範圍 | | | |
 | 轉向命令單位及允許範圍 | | | |
 | 馬達回饋 Topic／型別／單位 | | | |
-| Astra Pro Plus 驅動與影像／深度 Topic | | | |
+| Astra Pro Plus ROS 2 驅動套件／版本／分支（Orbbec 官方列出 v1.x `main` 支援 Astra Pro Plus；v2.x 不支援，實機需以映像內容核對） | | | |
+| Astra Pro Plus 啟動檔、彩色／深度／IR Topic 與型別（不可從其他 Astra 型號或 ROS 1 教學直接推定） | | | |
 | YDLIDAR 4ROS ROS 2 套件版本／來源 | | | |
 | YDLIDAR 4ROS 啟動方式（原廠 ROS 2 教學示例：`ros2 launch ydlidar_ros2_driver 4ros_ydlidar_launch.py`；須確認實機安裝之套件包含此 launch file） | | | |
 | 雷射掃描 Topic／型別（原廠教學示例觀察 `/scan`；實機需以 `ros2 topic list`／`ros2 topic info` 核實） | | | |
