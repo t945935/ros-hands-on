@@ -8,7 +8,7 @@
 | 轉向 | 20 kg·cm 金屬數位舵機 |
 | 主控 | Jetson Orin Nano SUPER 4GB／8GB |
 | 系統 | Ubuntu 22.04 LTS + ROS 2 Humble；Python |
-| 輸入 | Astra Pro Plus 深度攝影機、入門／高性能雷射雷達（選配）、PS2 無線手把、九軸姿態感測器、馬達測速碼盤 |
+| 輸入 | Astra Pro Plus 深度攝影機、YDLIDAR 4ROS 雷射雷達（型號由使用者確認；其 ROS 2 驅動／版本仍需以實機套裝核對）、PS2 無線手把、九軸姿態感測器、馬達測速碼盤 |
 | 輸出 | RGB 炫彩尾燈、蜂鳴器、OLED 顯示螢幕 |
 | 介面 | 520 馬達介面 ×4、PWM 舵機介面 ×4、串口舵機介面 |
 | 遙控／網路 | 手機 APP、PC、PS2；Wi-Fi 區域網路／AP 模式 |

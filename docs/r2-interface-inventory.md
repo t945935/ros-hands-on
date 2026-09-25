@@ -13,7 +13,9 @@
 | 轉向命令單位及允許範圍 | | | |
 | 馬達回饋 Topic／型別／單位 | | | |
 | Astra Pro Plus 驅動與影像／深度 Topic | | | |
-| 雷射雷達型號、驅動與掃描 Topic | | | |
+| YDLIDAR 4ROS ROS 2 套件版本／來源 | | | |
+| YDLIDAR 4ROS 啟動方式（原廠 ROS 2 教學示例：`ros2 launch ydlidar_ros2_driver 4ros_ydlidar_launch.py`；須確認實機安裝之套件包含此 launch file） | | | |
+| 雷射掃描 Topic／型別（原廠教學示例觀察 `/scan`；實機需以 `ros2 topic list`／`ros2 topic info` 核實） | | | |
 | IMU Topic／座標框架 | | | |
 | TF frame 名稱與連線 | | | |
 | 正常停止方式 | | | |

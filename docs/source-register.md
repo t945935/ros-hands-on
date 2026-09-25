@@ -30,3 +30,6 @@
 [6] https://github.com/YahboomTechnology/ROSMASTER-R2/blob/3d0919af47f4dae9c77ffeea3b594795cd4f482c/04.ROS2-R2%20Car%20Tutorial/10.%20Lidar%20course/7%E3%80%81Navigation%20and%20obstacle%20avoidance.pdf — R2 course: Navigation and obstacle avoidance
 [7] https://raw.githubusercontent.com/ros2/ros2_documentation/0eabd5aaf089cc5999a3b081c7843a66841352a4/source/Concepts/Basic/About-Topics.rst — ROS 2 Humble topic concepts, pinned documentation commit
 [8] https://raw.githubusercontent.com/ros2/ros2_documentation/0eabd5aaf089cc5999a3b081c7843a66841352a4/source/Concepts/Basic/Interfaces-Topics-Services-Actions.rst — ROS 2 Humble topics, services, actions, pinned documentation commit
+[9] https://github.com/YahboomTechnology/ROSMASTER-R2 — R2 原廠 repository 根目錄，列出選配雷射雷達名稱「SLAM A1/YDLIDAR 4ROS」；使用者已確認其實際配置為 YDLIDAR 4ROS。實機標籤、硬體版本與 ROS 驅動仍須另行核對。
+[10] https://www.yahboom.net/public/upload/upload-html/1700712853/1.Preparation.html — Yahboom YDLIDAR 4ROS ROS 2 準備文件；列出 `4ros_ydlidar_launch.py` 與 `ydlidar_4ros_view_launch.py` 作為示例啟動檔名，並示範觀察 `/scan`。需核對實機套件與版本；非本機 runtime 測試結果。
+[11] https://www.yahboom.net/public/upload/upload-html/1665711547/Lidar%20basic-4ROS.html — Yahboom YDLIDAR 4ROS 雷達基礎文件；描述其為 360° 2D 脈衝 ToF 雷達，5–12 Hz 可調、20 kHz 測距頻率、IP65。規格僅為原廠文件宣稱，非本機量測。
